@@ -1,39 +1,40 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Lu Yu （余璐）
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Associate Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Tianjin University of Technology
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include lifelong learning, metric learning, multimedia application, color representation etc..
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computer Vision
+  - Lifelong Learning
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: Postdoc
+      institution: Heriot Watt University, Edinburgh, UK
+      year: 2020
+    - course: Postdoc
+      institution: Autonomous University of Barcelona, Barcelona, Spain
+      year: 2019
+    - course: PhD in Computer Science
+      institution: Autonomous University of Barcelona, Barcelona, Spain
+      year: 2015
+    - course: Master in Systems Engineering
+      institution: Northwestern Polytechnical University, Xi'an, China
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -64,14 +65,14 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'luyu@email.tjut.edu.cn'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Lu Yu is a associate professor of Computer Science and Engineering School at Tianjin University of Technology. Her research interests include research interests include lifelong learning, GANs, metric learning, multi-media application, color representation etc..
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+余璐，现任天津理工大学副教授，硕士生导师。主要研究领域是计算机视觉和人工智能相关应用，包括连续/持续/终身学习，对抗生成网络，度量学习，多媒体应用，颜色表示等。
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
