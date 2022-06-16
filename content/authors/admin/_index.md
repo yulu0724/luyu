@@ -17,7 +17,7 @@ bio: My research interests include lifelong learning, metric learning, multimedi
 
 # Interests to show in About widget
 interests:
-  - Continual / Incremental/ Lifelong Learning
+  - Continual/Incremental/Lifelong Learning
   - Metric Learning
   - GANs
   - ...
