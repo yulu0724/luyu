@@ -71,7 +71,7 @@ email: 'luyu@email.tjut.edu.cn'
 highlight_name: true
 ---
 
-Lu Yu is a associate professor of Computer Science and Engineering School at Tianjin University of Technology. Her research interests include research interests include lifelong learning, GANs, metric learning, multi-media application, color representation etc..
+Lu Yu is an associate professor of Computer Science and Engineering School at Tianjin University of Technology. Her research interests include lifelong learning, GANs, metric learning, multi-media application, color representation, etc.
 
 余璐，现任天津理工大学副教授，硕士生导师。主要研究领域是计算机视觉相关应用，包括连续/持续/终身学习，对抗生成网络，度量学习，多媒体应用，颜色表示等。
 
