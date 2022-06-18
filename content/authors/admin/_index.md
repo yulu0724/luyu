@@ -25,17 +25,17 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Postdoc
-      institution: Heriot Watt University, Edinburgh, UK (Worked with ![Verena Rieser](https://sites.google.com/site/verenateresarieser/home))
+    - course: Postdoc (Worked with ![Verena Rieser](https://sites.google.com/site/verenateresarieser/home))
+      institution: Heriot Watt University, Edinburgh, UK 
       year: 2020
-    - course: Postdoc
-      institution: Autonomous University of Barcelona, Barcelona, Spain (Worked with ![Joost van de Weijer](http://www.cvc.uab.es/LAMP/joost/))
+    - course: Postdoc (Worked with ![Joost van de Weijer](http://www.cvc.uab.es/LAMP/joost/))
+      institution: Autonomous University of Barcelona, Barcelona, Spain
       year: 2019 
-    - course: PhD in Computer Science
-      institution: Autonomous University of Barcelona, Barcelona, Spain (Supervisor: ![Joost van de Weijer](http://www.cvc.uab.es/LAMP/joost/))
+    - course: PhD in Computer Science (Supervisor: ![Joost van de Weijer](http://www.cvc.uab.es/LAMP/joost/))
+      institution: Autonomous University of Barcelona, Barcelona, Spain 
       year: 2015
-    - course: Master in Systems Engineering
-      institution: Northwestern Polytechnical University, Xi'an, China (Supervisor: Yongmei Cheng)
+    - course: Master in Systems Engineering (Supervisor: Yongmei Cheng)
+      institution: Northwestern Polytechnical University, Xi'an, China 
       year: 2012
 
 # Social/Academic Networking
@@ -46,18 +46,18 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+  #  - icon: twitter
+  #  icon_pack: fab
+  #  link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+  #  - icon: linkedin
+  #  icon_pack: fab
+  #  link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
