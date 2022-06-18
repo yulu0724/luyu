@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Postdoc (Worked with ![Verena Rieser](https://sites.google.com/site/verenateresarieser/home))
+    - course: Postdoc (Worked with [Verena Rieser](https://sites.google.com/site/verenateresarieser/home))
       institution: Heriot Watt University, Edinburgh, UK 
       year: 2020
     - course: Postdoc
