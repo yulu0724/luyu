@@ -25,13 +25,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Postdoc (Worked with [Verena Rieser](https://sites.google.com/site/verenateresarieser/home))
+    - course: Postdoc (Worked with )
       institution: Heriot Watt University, Edinburgh, UK 
       year: 2020
-    - course: Postdoc (Worked with [Joost van de Weijer](http://www.cvc.uab.es/LAMP/joost/))
+    - course: Postdoc (Worked with )
       institution: Autonomous University of Barcelona, Barcelona, Spain
       year: 2019 
-    - course: PhD in Computer Science (Supervisor: [Joost van de Weijer](http://www.cvc.uab.es/LAMP/joost/))
+    - course: PhD in Computer Science (Supervisor: )
       institution: Autonomous University of Barcelona, Barcelona, Spain 
       year: 2015
     - course: Master in Systems Engineering (Supervisor: Yongmei Cheng)
