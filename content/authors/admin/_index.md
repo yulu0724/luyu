@@ -25,16 +25,16 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Postdoc (Worked with )
+    - course: Postdoc
       institution: Heriot Watt University, Edinburgh, UK 
       year: 2020
-    - course: Postdoc (Worked with )
+    - course: Postdoc
       institution: Autonomous University of Barcelona, Barcelona, Spain
       year: 2019 
-    - course: PhD in Computer Science (Supervisor: )
+    - course: PhD in Computer Science
       institution: Autonomous University of Barcelona, Barcelona, Spain 
       year: 2015
-    - course: Master in Systems Engineering (Supervisor: Yongmei Cheng)
+    - course: Master in Systems Engineering
       institution: Northwestern Polytechnical University, Xi'an, China 
       year: 2012
 
