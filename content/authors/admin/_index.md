@@ -25,13 +25,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Postdoc (Worked with ![Verena Rieser](https://sites.google.com/site/verenateresarieser/home))
+    - course: Postdoc (Worked with [Verena Rieser](https://sites.google.com/site/verenateresarieser/home))
       institution: Heriot Watt University, Edinburgh, UK 
       year: 2020
-    - course: Postdoc (Worked with ![Joost van de Weijer](http://www.cvc.uab.es/LAMP/joost/))
+    - course: Postdoc (Worked with [Joost van de Weijer](http://www.cvc.uab.es/LAMP/joost/))
       institution: Autonomous University of Barcelona, Barcelona, Spain
       year: 2019 
-    - course: PhD in Computer Science (Supervisor: ![Joost van de Weijer](http://www.cvc.uab.es/LAMP/joost/))
+    - course: PhD in Computer Science (Supervisor: [Joost van de Weijer](http://www.cvc.uab.es/LAMP/joost/))
       institution: Autonomous University of Barcelona, Barcelona, Spain 
       year: 2015
     - course: Master in Systems Engineering (Supervisor: Yongmei Cheng)
@@ -73,7 +73,7 @@ email: 'luyu@email.tjut.edu.cn'
 highlight_name: true
 ---
 
-Lu Yu is an associate professor at the College of Computer Science and Engineering, Tianjin University of Technology. She joined the multimedia group led by . Her research interests include lifelong learning, GANs, metric learning, multi-media application, color representation, etc.
+Lu Yu is an associate professor at the College of Computer Science and Engineering, Tianjin University of Technology. She joined the multimedia group led by [Changsheng Xu](https://scholar.google.com/citations?user=hI9NRDkAAAAJ&hl=en). Her research interests include lifelong learning, GANs, metric learning, multi-media application, color representation, etc.
 
 余璐，现任天津理工大学副教授，硕士生导师。主要研究领域是计算机视觉相关应用，包括连续/持续/终身学习，对抗生成网络，度量学习，多媒体应用，颜色表示等。
 
