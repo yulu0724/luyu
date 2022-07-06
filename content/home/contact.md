@@ -25,7 +25,8 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
+  email: luyu@email.tjut.edu.cn
+  address: 天津理工大学1号楼305
 
 design:
   columns: '2'
